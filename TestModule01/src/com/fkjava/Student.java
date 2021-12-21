@@ -8,4 +8,6 @@ package com.fkjava;
  * @Time:1:27
  */
 public class Student {
+    private int age;
+    private String name;
 }
