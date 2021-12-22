@@ -10,4 +10,5 @@ package com.fkjava;
 public class Student {
     private int age;
     private String name;
+    private Double weight;
 }
